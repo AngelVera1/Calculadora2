@@ -7,6 +7,7 @@ package ej1;
 
 /**
  *
+ * 
  * @author dam
  */
 public class Ej1 {
